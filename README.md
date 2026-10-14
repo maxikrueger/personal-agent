@@ -18,16 +18,24 @@ No server, no account, no telemetry: all data stays on the phone.
 
 <table>
   <tr>
-    <td><img src="docs/screenshots/proposal.webp" width="200" alt="The agent proposes a task; nothing happens until the user confirms"></td>
-    <td><img src="docs/screenshots/confirmed.webp" width="200" alt="After confirmation the app creates the reminder"></td>
-    <td><img src="docs/screenshots/reminders.webp" width="200" alt="The new task in Apple Reminders"></td>
-    <td><img src="docs/screenshots/insights.webp" width="200" alt="Insights: completion times, reminder effectiveness, recurring patterns"></td>
+    <td><img src="docs/screenshots/proposal.webp" width="230" alt="The agent proposes a task; nothing happens until the user confirms"></td>
+    <td><img src="docs/screenshots/confirmed.webp" width="230" alt="After confirmation the app creates the reminder"></td>
+    <td><img src="docs/screenshots/reminders.webp" width="230" alt="The new task in Apple Reminders"></td>
   </tr>
   <tr>
     <td align="center"><sub>The agent only proposes…</sub></td>
     <td align="center"><sub>…the user confirms</sub></td>
     <td align="center"><sub>Task created in Apple Reminders</sub></td>
-    <td align="center"><sub>Deterministic insights</sub></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/insights-top.webp" width="230" alt="Insights: frequently postponed and reliably completed tasks"></td>
+    <td><img src="docs/screenshots/insights-middle.webp" width="230" alt="Insights: best completion times and reminder effectiveness"></td>
+    <td><img src="docs/screenshots/insights-bottom.webp" width="230" alt="Insights: reminder effectiveness and recurring patterns"></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>What you postpone and what you finish</sub></td>
+    <td align="center"><sub>When you get things done</sub></td>
+    <td align="center"><sub>Which reminders work, recurring patterns</sub></td>
   </tr>
 </table>
 
